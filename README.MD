@@ -3,7 +3,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo falar sobre Governança de Dados e sua importancia
+Projeto com o objetivo de falar sobre Governança de Dados e sua importancia
 
 
 ## 💻 Tecnologias utilizadas no projeto
