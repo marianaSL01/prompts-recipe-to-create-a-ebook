@@ -26,4 +26,4 @@ seguem abaixo.
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [MAriana Soraggi]
